@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Daniel Fontes
+# 👋 Olá, eu sou o Carlos Daniel Fontes
 
 💻 Desenvolvedor **Full Stack**. Trabalho com **Next.js, Tailwind, TypeScript** no front e **Node.js, Express, TypeScript** no back.
 
